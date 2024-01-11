@@ -1,0 +1,7 @@
+1. Write python script to hit nba api successfully 
+2. return results in csv and dump to appropriately structured s3 folder 
+3. pull from s3 folder
+4. dump s3 results to mysql table, run query
+5. ......
+6. create matplotlib graph, dump to s3
+7. construct in email and send 

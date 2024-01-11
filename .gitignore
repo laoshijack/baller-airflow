@@ -1,0 +1,5 @@
+*.env
+localexecutor.yml
+docker-compose-LocalExecutor-keys.yml
+client_secret.json
+email_list.csv
