@@ -6,3 +6,4 @@
 
 
 
+<img width="1126" alt="Email Example" src="https://github.com/laoshijack/baller-airflow/assets/104815461/b5e30874-c0c1-4b38-87af-c8e9c3c46c43">
