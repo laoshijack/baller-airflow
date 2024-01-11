@@ -7,4 +7,9 @@
 
 
 
-<img width="1126" alt="Email Example" src="https://github.com/laoshijack/baller-airflow/assets/104815461/b5e30874-c0c1-4b38-87af-c8e9c3c46c43">
+<img width="600" alt="Email Example" src="https://github.com/laoshijack/baller-airflow/assets/104815461/b5e30874-c0c1-4b38-87af-c8e9c3c46c43">
+<p></p>
+
+<p>To do so I use python, HTML, docker, and Airflow. </p>
+<p></p>
+<p>I hit a number of different APIs including AWS (via boto3), Google, Rapid API, and more! I also use SMTP protocol to send the custom email to an end user.</p>
